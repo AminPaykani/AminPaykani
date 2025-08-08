@@ -1,5 +1,5 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Amin Paykani  
-### **Machine Learning Enthusiast | CS Student @ IUST**  
+### **Machine Learning Enthusiast | Math Student @ IUST**  
 
 🔬 **Currently**:  
 - 🔍 Sharpening my skills in **Python, Java, and LaTeX**  
