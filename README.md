@@ -30,7 +30,5 @@
 
 ---
 
-⚡ **Fun Fact**: I can analyze chess positions *and* workout routines with equal enthusiasm!  
-
 <!-- Optional animated divider -->  
 <img src="https://raw.githubusercontent.com/aminpaykani/aminpaykani/main/assets/divider.gif" width="100%">
